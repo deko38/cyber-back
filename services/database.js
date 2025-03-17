@@ -15,3 +15,4 @@ async function connectToDatabase() {
 }
 
 export {connectToDatabase, client};
+
